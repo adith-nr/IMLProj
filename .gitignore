@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+harth_project/data/harth/
+harth_project/data/*.zip
+harth_project/data/*.part
+harth_project/results/*.pkl
